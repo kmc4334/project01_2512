@@ -4,8 +4,8 @@
 애완동물 기르는 사람이 많아지기 때문에 관리 하기 위해서
 
 ## 사용 기술
-- js
-- Rn
+- java Script
+- React
 - mongo DB
 
 ##구현 가능
